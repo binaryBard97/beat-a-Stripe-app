@@ -1,2 +1,2 @@
-# beat-a-Stripe-app
+# the-article-app
  
